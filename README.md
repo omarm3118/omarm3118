@@ -8,7 +8,7 @@ Hello! I'm Omar, a passionate developer with expertise in mobile development, da
 
 - **💼 Current Role**: Developer  
 - **🎓 Education**: Bachelor's in Computer Science  
-- **🌟 Interests**: Mobile development with Flutter, data engineering, and financial analytics  
+- **🌟 Interests**: Mobile development with Flutter, data engineering
 
 ---
 
