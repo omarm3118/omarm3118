@@ -23,9 +23,6 @@ Hello! I'm Omar, a passionate developer with expertise in mobile development, da
 
 ## 📂 Featured Projects
 
-### 🌐 Sahtak App
-A health-related app focusing on improving UI/UX and backend integrations, including features like reminders, calendar views, and secure data handling.
-
 ### 📊 ETL Documentation & Automation
 Developed automated ETL procedures, including SQL scripts and SSIS packages, to optimize data warehousing for decision-making processes.
 
