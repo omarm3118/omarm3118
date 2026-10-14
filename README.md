@@ -17,7 +17,7 @@ Hello! I'm Omar, a passionate developer with expertise in mobile development, da
 - **Programming Languages**: Python, Dart, SQL, Kotlin  
 - **Frameworks and Tools**: Flutter, Android Studio  
 - **Data Analytics & ETL**: SSIS  
-- **Database Management**: MySQL, Oracle, SQL Server  
+- **Database Management**: PostgreSQL, MySQL, Oracle, SQL Server  
 
 ---
 
